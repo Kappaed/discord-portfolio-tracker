@@ -1,7 +1,3 @@
-from distutils.log import error
-from pickle import NONE
-from posixpath import split
-from typing import Dict
 import discord
 import os
 import re
